@@ -1,0 +1,50 @@
+.img1{
+    border-radius: 10px;
+    height: 1000px;
+    width: 950px;
+}
+
+.img2{
+    border-radius: 10px;
+    height: 830px;
+    width: 890px;
+}
+
+.img3{
+    border-radius: 10px;
+    height: 830px;
+    width: 880px;
+}
+
+.img4{
+    border-radius: 10px;
+    height: 830px;
+    width: 850px;
+}
+
+.img5{
+    border-radius: 10px;
+    height: 830px;
+    width: 750px;
+}
+
+.img6{
+    border-radius: 10px;
+    height: 830px;
+    width: 890px;
+}
+
+.img7{
+    border-radius: 10px;
+    height: 830px;
+    width: 1000px;
+}
+
+h1{
+    font-size: 45px;
+}
+
+h2{
+    font-size: 25px;  
+    font-weight: 25px;
+}
